@@ -66,4 +66,3 @@ def test_weather_api():
 @pytest.mark.skip(reason="WIP")
 def test_not_ready():
     ...
-    
